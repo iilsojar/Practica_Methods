@@ -11,7 +11,6 @@ Console.WriteLine($"произведение чисел от 1 до {number} -> 
 
 int Factorial (int num)
 {
-    if(num < 0) num = - num;
     int factor = 1;
     for (int i = 1; i <= num; i++)
     {
