@@ -17,19 +17,29 @@ int[] arr = GetArray(12, -9, 9);
 Console.Write("введите искомое в массиве число: ");
 
 int number = Convert.ToInt32(Console.ReadLine());
-int count = 0;
+// int count = 0;
+
+// foreach (int elem in arr)
+// {
+//     if (elem == number)
+//     {
+//         count +=1;
+//     }
+// }
+//     if (count > 0) Console.Write($"в заданном массиве есть число {number} ");
+//     else Console.Write($"в заданном массиве нет числа {number} ");
+//     Console.WriteLine();
+
+bool count = false; 
 
 foreach (int elem in arr)
 {
     if (elem == number)
     {
-        count +=1;
+        count = true;
     }
 }
-    if (count > 0) Console.Write($"в заданном массиве есть число {number} ");
+    if (count == true) Console.Write($"в заданном массиве есть число {number} ");
     else Console.Write($"в заданном массиве нет числа {number} ");
     Console.WriteLine();
-
-
-
 
