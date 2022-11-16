@@ -33,7 +33,7 @@ void InversElemArray(int[] array)
         array[i] = -array[i];
     }
 }
-int[] arr = CreatArrayRandom(12, -9, 9);
+int[] arr = CreatArrayRandom(5, -9, 9);
 PrintArray(arr);
 InversElemArray(arr);
 PrintArray(arr);
