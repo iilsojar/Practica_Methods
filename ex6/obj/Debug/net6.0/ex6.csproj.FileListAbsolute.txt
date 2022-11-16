@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.AssemblyInfo.cs
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/Practica1/ex6/bin/Debug/net6.0/ex6
+/Users/mandis/Desktop/Practica1/ex6/bin/Debug/net6.0/ex6.deps.json
+/Users/mandis/Desktop/Practica1/ex6/bin/Debug/net6.0/ex6.runtimeconfig.json
+/Users/mandis/Desktop/Practica1/ex6/bin/Debug/net6.0/ex6.dll
+/Users/mandis/Desktop/Practica1/ex6/bin/Debug/net6.0/ex6.pdb
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.dll
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/refint/ex6.dll
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.pdb
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ex6.genruntimeconfig.cache
+/Users/mandis/Desktop/Practica1/ex6/obj/Debug/net6.0/ref/ex6.dll
